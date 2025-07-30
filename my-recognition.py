@@ -6,7 +6,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("filename", type=str, help="filename of the image to process")
-parser.add_argument("--network", type=str, default="resnet18", help="model to use, can be:  googlenet, resnet-18, ect. (see --help for others)")
+parser.add_argument("--network", type=str, default="resnet-18", help="model to use")
 opt = parser.parse_args()
 img = jetson_utils.loadImage(opt.filename)
 net = jetson_inference.imageNet(opt.network, model="resnet18.onnx")
