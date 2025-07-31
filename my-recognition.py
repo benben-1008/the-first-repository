@@ -67,7 +67,7 @@ if str(class_desc)=="[Malignant] Pre-B":
                   "\nHair loss, fatigue, infections, nausea, low blood counts—but many are temporary and manageable.")
             print("Do you want to know about other treatments to?")
             questions2=input("if you want to know press 1,if you do not want to press 2")
-            if questions2==1:
+            if questions2=="1":
                 print("ok!")
             else:
                 answer=False
@@ -86,7 +86,7 @@ if str(class_desc)=="[Malignant] Pre-B":
                   "\nIt directly interferes with leukemia growth without harming as many healthy cells.")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -105,7 +105,7 @@ if str(class_desc)=="[Malignant] Pre-B":
                   "\nGraft-versus-host disease (if from donor), infections, long recovery")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -122,7 +122,7 @@ if str(class_desc)=="[Malignant] Pre-B":
                   "\nWhat are the risks/benefits?")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -141,7 +141,7 @@ if str(class_desc)=="[Malignant] Pre-B":
                   "\nMost patients reach remission after induction.")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -156,7 +156,7 @@ if str(class_desc)=="[Malignant] Pre-B":
                   "\nWhy it matters:"
                   "\nEven if you feel well, maintenance is vital to prevent relapse.")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -200,7 +200,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                   "\nHair loss, fatigue, infections, nausea, low blood counts—but many are temporary and manageable.")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -219,7 +219,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                   "\nIt directly interferes with leukemia growth without harming as many healthy cells.")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 =="1" :
                 print("ok!")
             else:
                 answer = False
@@ -238,7 +238,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                   "\nGraft-versus-host disease (if from donor), infections, long recovery")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -255,7 +255,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                   "\nWhat are the risks/benefits?")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -274,7 +274,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                   "\nMost patients reach remission after induction.")
             print("Do you want to know about other treatments to?")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
@@ -289,7 +289,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                   "\nWhy it matters:"
                   "\nEven if you feel well, maintenance is vital to prevent relapse.")
             questions2 = input("if you want to know press 1,if you do not want to press 2")
-            if questions2 == 1:
+            if questions2 == "1":
                 print("ok!")
             else:
                 answer = False
