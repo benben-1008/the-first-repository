@@ -146,7 +146,7 @@ if str(class_desc)=="[Malignant] Pre-B":
             else:
                 answer = False
                 print("Okay, no problem. Let me know if you want to learn more later!")
-        if questions==" Maintenance therapy":
+        if questions=="Maintenance therapy":
             print("\nHere are the explanations of Maintenance Therapy"
                   "\nGoal:"
                   "\nTo keep leukemia from coming back (long-term control)."
@@ -279,7 +279,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
             else:
                 answer = False
                 print("Okay, no problem. Let me know if you want to learn more later!")
-        if questions == " Maintenance therapy":
+        if questions == "Maintenance therapy":
             print("\nHere are the explanations of Maintenance Therapy"
                   "\nGoal:"
                   "\nTo keep leukemia from coming back (long-term control)."
