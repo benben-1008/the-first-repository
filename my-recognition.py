@@ -324,4 +324,4 @@ if str(class_desc)=="[Malignant] Pro-B":
 
 
 
-print("Ai is often wrong in its diagnosis.Please ask for a more accurate examination at a hospital.")
+print("Ai is often wrong in its diagnosis.Please ask for more accurate examination at a hospital.")
