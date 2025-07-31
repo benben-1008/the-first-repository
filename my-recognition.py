@@ -295,7 +295,7 @@ if str(class_desc)=="[Malignant] early Pre-B":
                 answer = False
                 print("Okay, no problem. Let me know if you want to learn more later!")
 
-if str(class_desc)=="[Malignant]Pro-B":
+if str(class_desc)=="[Malignant] Pro-B":
     print("You are diagnosed with blood cancer,malignant Pro-B cell acute lymphoblastic leukemia (Pro-B ALL) "
           "\n this generally means a more aggressive and high-risk form of leukemia."
           "\n1. Get Treated at a Specialized Cancer Center"
