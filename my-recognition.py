@@ -21,7 +21,7 @@ class_desc = net.GetClassDesc(class_idx)
 print("image is recognized as "+ str(class_desc) +" (class #"+ str(class_idx) +") with " + str(confidence*100)+"% confidence")
 if str(class_desc)=="Benign":
     print("\nYou are not diagnosed with blood cancer.Here are some tips to prevent blood cancer."
-          "\n1.Avoid smoking"
+          "\n1.gAvoid smokin"
           "\nSmoking increases the risk of some types of leukemia."
           "\nEven secondhand smoke has been linked to cancer risk."
           "\n2. Reduce Radiation Exposure"
